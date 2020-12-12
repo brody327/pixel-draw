@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Brody Faust">
+    <meta name="description" content="">
+    <title>Title Goes Here</title>
+    <link rel="stylesheet" href="styles/style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script defer src="scripts/app.js"></script>
+</head>
+<body>
+    <header>RETRO DRAW</header>
+    <main>
+      <section class="palette">
+      </section>
+      <section class="grid"></section>
+      <section class="controls">
+        <label for="row">GRID SIZE:</label>
+        <input id="grid-size" type="number" name="grid-size" id="grid-size" value="64">
+        <button id="submit">APPLY GRID SIZE</button>
+        <button class="fill-all">FILL ALL CELLS</button>
+        <button class="fill-empty">FILL EMPTY CELLS</button>
+        <button class="clear">CLEAR ALL CELLS</button>
+        <button class="random">RANDOM COLOR</button>
+        <label for="new-color">ADD A CUSTOM COLOR:</label>
+        <input id="new-color" type="color" name="new-color" id="new-color" value="#fffff">
+        <button id="new-color-button">ADD TO PALETTE</button>
+      </section>
+    </main>
+  </body>
+</html>
