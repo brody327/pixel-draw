@@ -1,28 +1,20 @@
-# pixel-draw
-A simple pixel drawing app.
+## Pixel Draw
+**June 2020**
 [View Site](https://pixel-draw-brody.netlify.app/)
 
-## Grandma's Mac
-[View Site](https://grandmas-mac.herokuapp.com/)
-
-Grandma's Mac is a full-stack, e-commerce website. It runs on a stack that includes: HTML/CSS, Javascript, Node.js, Express, and PostgreSQL. On this site, users can browse and purchase artisan macaroni and cheese products! Users can checkout as a guest or authenticated user.
+Pixel Draw is a simple pixel drawing app. It runs on a stack that includes: HTML/CSS, JQuery, and JavaScript. On this site, users can fill in pixels with chosen colors from a pallete to create an image. Users can randomize the color of the pallete or add their own.
 
 ## Motivation
-We created Grandma's Mac as a way to practice building a full-stack, e-commerce website while expressing an outlet for creative design.
+I created Pixel Draw to practice getting the hang of implementing a static, single page application using JQuery and JavaScript.
  
 ## Videos & Screenshots
-**Overview**:
-
-[![Grandma's Mac Presentation](http://i3.ytimg.com/vi/247hNkqLX1k/hqdefault.jpg)](https://www.youtube.com/watch?v=247hNkqLX1k&amp%3Bindex=4)
 
 ## Tech/framework used
 <b>Built with</b>
 - HTML
 - CSS
 - [Javascript](https://www.javascript.com/)
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/)
-- [PostgreSQL](https://www.postgresql.org/)
+- [JQuery](https://jquery.com/)
 
 ## Features
 What makes your project stand out?
