@@ -1,5 +1,6 @@
 ## Pixel Draw
 **June 2020**
+
 [View Site](https://pixel-draw-brody.netlify.app/)
 
 Pixel Draw is a simple pixel drawing app. It runs on a stack that includes: HTML/CSS, JQuery, and JavaScript. On this site, users can fill in pixels with chosen colors from a pallete to create an image. Users can randomize the color of the pallete or add their own.
